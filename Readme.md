@@ -33,7 +33,7 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 - ⚡ Fun fact - I love Anime and Car cultre 😎
 
 
-[![Faiz's github stats](https://github-readme-stats.vercel.app/api?username=faizm55212&count_private=true&include_all_commits=true&theme=radical)](https://github.com/faizm55212?tab=repositories)
+<p align="center">[![Faiz's github stats](https://github-readme-stats.vercel.app/api?username=faizm55212&count_private=true&include_all_commits=true&theme=radical)](https://github.com/faizm55212?tab=repositories)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
